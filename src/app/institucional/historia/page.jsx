@@ -16,8 +16,8 @@ export default function Historia (){
                 <h1>Nuestra Historia</h1>
             </div>
             <div className="flex flex-row">
-                <div className="basis-1/2 p-5 flex flex-col gap-3 text-justify">
-                    <p className="text-xl">Un poco de nuestra biografía institucional…</p>
+                <div className="basis-1/2 p-5 flex flex-col gap-3 text-justify indent-8">
+                    <p className="text-xl indent-0">Un poco de nuestra biografía institucional…</p>
                     <p>La historia comenzó en el año 1973, cuando ante el inminente cierre del Instituto Borel Maisony (emprendimiento educativo privado en la zona de Argüello centro), un grupo de docentes decidió agruparse para dar continuidad al proyecto con criterios autogestivos. Tras reuniones, trámites y averiguaciones, en noviembre del mismo año, concretaron la iniciación, en una Asamblea Constitutiva, de la flamante “Cooperativa de Trabajo Mixta de Enseñanza de Arguello Ltda.”. El acto de inauguración tuvo lugar el día 24 de marzo de 1974. Se trató de una hermosa fiesta a la que asistieron varias autoridades y personas representativas de la comunidad de Argüello.</p>
                     <p>Desde entes estatales se sugirió el cambio del nombre “Borel Maisony” (ya que este pedagogo estaba aún con vida) por el de “Brigadier Mayor Juan Ignacio San Martín”, quien había sido gobernador de la provincia de Córdoba durante la primera presidencia de Perón y ya había fallecido en 1966. Con este nuevo nombre, continuó funcionando con su estructura de Nivel Inicial y Nivel Primario hasta cuarto grado.</p>
                     <p>Desde sus comienzos, el equipo docente organizó y desarrollo sus tareas bajo propuestas pedagógicas de avanzada que acordaran con el estilo de organización de la Cooperativa. Se trabajó con retribuciones acotadas a las personas asociadas, pues las posibilidades contables no cubrían los montos para los egresos necesarios en esta etapa fundacional.</p>
