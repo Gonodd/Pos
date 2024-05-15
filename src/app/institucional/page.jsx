@@ -14,7 +14,7 @@ export default function Institucional (){
             <div className="font-medium text-center">
                 <h1 className="text-3xl font-sans bg-cyan-500">¿Quienes somos?</h1>
             </div>
-            <div className="text-xl text-justify indent-8 px-8 py-6">
+            <div className="text-xl text-justify indent-8 px-8 py-6 flex flex-col gap-4">
                 <p> 
                     La Cooperativa de Trabajo Mixta de Enseñanza de Arguello Ltda. es una organización que desarrolla sus actividades teniendo como horizonte los valores y principios cooperativos. En este sentido ha orientado siempre su tarea educativa en base al esfuerzo colectivo, la ayuda mutua, la solidaridad y la participación democrática. Asimismo, desde hace más de 40 años, la Cooperativa se sostiene de manera autogestiva, en gran parte gracias al aporte económico y humano de sus socios y socias.
                 </p>
@@ -24,7 +24,7 @@ export default function Institucional (){
                 <p>
                     Hoy, al igual que ayer, seguimos soñando y haciendo, creciendo y creyendo en una idea de bien común, en una organización solidaria con más de 75 asociados/as y 860 estudiantes en sus tres Niveles (Inicial, Primario y Medio).
                 </p>
-                <p className="mt-12 font-black italic text-xl">
+                <p className="mt-10 font-black italic text-xl">
                     “Hay gente que ya no se pertenece que se entrega que se trasciende. Son gorriones que nunca olvidan su bandada sino que sirven a ella porque saben que no hay gorrión posible en soledad”. 
                 </p>
                 <p className="mt-1 font-black italic text-right text-xl">
