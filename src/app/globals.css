@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body{ background-color: rgb(240, 158, 158);
+body{ background-color: white;
     color: black;
     display: flex;
     flex-direction:column;
