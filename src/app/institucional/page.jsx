@@ -30,7 +30,7 @@ export default function Institucional (){
                 <p className="mt-1 font-black italic text-right text-xl">
                     Nina Ferrari
                 </p>
-                <Link href="historia">Conoce mas de nuestra historia</Link>
+                <Link href="/insituciona/historia">Conoce mas de nuestra historia</Link>
             </div>    
         </div>
         <div className="basis-1/2 flex flex-col gap-5">
