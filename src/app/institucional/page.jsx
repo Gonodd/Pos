@@ -33,10 +33,10 @@ export default function Institucional (){
                 <Link href="/institucional/historia">Conoce mas de nuestra historia</Link>
             </div>    
         </div>
-        <div className="basis-1/2 flex flex-col gap-5">
-            <img src={quienes_somos1.src} alt="Jardin" className="border-4 border-gray-800   rounded-xl"/>
-            <img src={quienes_somos2.src} alt="Primario" className="border-4 border-gray-800 rounded-xl"/>
-            <img src={quienes_somos3.src} alt="Secundario" className="border-4 border-gray-800 rounded-xl"/>
+        <div className="basis-1/2 flex flex-col gap-5 px-5">
+            <img src={quienes_somos1.src} alt="Jardin" className="border-4 border-gray-800 rounded-xl shadow-xl hover:scale-105 transition-transform"/>
+            <img src={quienes_somos2.src} alt="Primario" className="border-4 border-gray-800 rounded-xl shadow-xl hover:scale-105 transition-transform"/>
+            <img src={quienes_somos3.src} alt="Secundario" className="border-4 border-gray-800 rounded-xl shadow-xl hover:scale-105 transition-transform"/>
         </div>
     </div>
     </div>    
